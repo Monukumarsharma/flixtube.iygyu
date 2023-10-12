@@ -124,16 +124,16 @@ header h1 {
 
 .website-container {
     flex-grow: 1;
-    width: 200%;
+    width: 71%;
     
 
 }
 
 #website-iframe {
-    width: 44.5%;
+    width: 126%;
     height: 240px;
     border: none;
-    margin-left: 5.3%;
+    margin-left: 15%;
     margin-top: 51px;
    
 }
