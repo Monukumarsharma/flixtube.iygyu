@@ -132,10 +132,10 @@ main {
 }
 
 #website-iframe {
-    width: 89%;
+    width: 107.8%;
     height: 240px;
     border: none;
-    margin-left: 10.7%;
+    margin-left: 13%;
     margin-top: 51px;
    
 }
@@ -155,19 +155,4 @@ main {
     margin-left: 51px;}
 
 
-    .website-container {
-        flex-grow: 1;
-        width: 71%;
-        
-    
-    }
-    
-    #website-iframe {
-        width: 44.7%;
-        height: 240px;
-        border: none;
-        margin-left: 5.4%;
-        margin-top: 51px;
-       
-    }
     
