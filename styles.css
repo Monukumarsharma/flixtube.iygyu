@@ -124,22 +124,6 @@ main {
     height: 200px;
 }
 
-.website-container {
-    flex-grow: 1;
-    width: 200%;
-    
-
-}
-
-#website-iframe {
-    width: 107.8%;
-    height: 240px;
-    border: none;
-    margin-left: 13%;
-    margin-top: 51px;
-   
-}
-
 .thumbnails1 {
    
     display: flex;
@@ -156,3 +140,18 @@ main {
 
 
     
+.website-container {
+    flex-grow: 1;
+   
+    
+
+}
+
+#website-iframe {
+    width: 100%;
+    height: 240px;
+    border: none;
+    margin-left: 12%;
+    margin-top: 51px;
+   
+}
