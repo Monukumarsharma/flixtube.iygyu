@@ -98,7 +98,9 @@ header h1 {
     margin: 0;
 }
 
-
+main {
+    display: flex;
+}
 
 .thumbnails {
     width: 472px;
@@ -124,16 +126,16 @@ header h1 {
 
 .website-container {
     flex-grow: 1;
-    width: 71%;
+    width: 200%;
     
 
 }
 
 #website-iframe {
-    width: 44.7%;
+    width: 89%;
     height: 240px;
     border: none;
-    margin-left: 5.4%;
+    margin-left: 10.7%;
     margin-top: 51px;
    
 }
@@ -151,3 +153,21 @@ header h1 {
     width: flex;
     position: center;
     margin-left: 51px;}
+
+
+    .website-container {
+        flex-grow: 1;
+        width: 71%;
+        
+    
+    }
+    
+    #website-iframe {
+        width: 44.7%;
+        height: 240px;
+        border: none;
+        margin-left: 5.4%;
+        margin-top: 51px;
+       
+    }
+    
